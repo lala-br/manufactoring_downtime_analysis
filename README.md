@@ -73,8 +73,8 @@ This project demonstrates my ability to:
 
 ## Files
 
-- [Original Dataset](data/Manufacturing_Line_Productivity.xlsx)  
+- [Original Dataset](dataset/Manufacturing_Line_Productivity.xlsx)  
 - [Completed Analysis Workbook](workbook/Manufacturing_Analysis.xlsx)  
 - Screenshots of dashboard:  
-  ![Dashboard](screenshots/dashboard.png)  
+  ![Dashboard](screenshot/Dashboard.PNG)  
 
